@@ -1,0 +1,70 @@
+.subscribe-button{
+  background-color: red;
+  color: white;
+  border: none;
+  height: 37px;
+  width: 105px;
+  border-radius: 2px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.join-button{
+  background-color: white;
+  border-color: aqua;
+  border-style: solid;
+  border-width: 1px;
+  color: rgb(26, 133, 195);
+  height: 37px;
+  width: 68px;
+  border-radius: 2px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.tweet-button{
+   background-color: rgb(41, 67, 196);
+   border: none;
+   color: white;
+   height: 37px;
+   width: 110px;
+   border-radius: 20px;
+   cursor: pointer;
+   font-size: medium;
+   margin-right: 10px;
+}
+
+.Uber-button{
+  background-color: black;
+  border: none;
+  color: white;
+  height: 37px;
+  width: 105px;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.Amazone-button{
+  background-color: yellow;
+  border: none;
+  height: 37px;
+  width: 130px;
+  border-radius: 20px;
+  margin-right: 10px;
+}
+
+.bootstrap-button{
+  border: none;
+  background-color: rgb(121, 82, 179);
+  height: 37px;
+  width: 105px;
+  color: white;
+  font-weight: 600;
+  border-radius: 3px;
+  
+}
+button {
+  display: block;
+  margin: 0 auto;
+}

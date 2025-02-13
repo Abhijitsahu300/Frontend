@@ -1,0 +1,46 @@
+
+.normal{
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 5px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: gray;
+  margin-right: 20px;
+  
+}
+
+.google_search{
+  padding: 10px;
+  width: 350px;
+  border-radius: 25px;
+  border-style: solid;
+  border-color: rgb(214, 214, 214);
+  
+  margin-bottom: 30px;
+}
+.email{
+  
+  margin-bottom: 0;
+}
+.linkedin_search{
+   width: 300px;
+   padding: 7px;
+   border-width: 2px;
+   border-style: solid;
+   border-radius: 3px;
+}
+.description{
+  font-family: sans-serif;
+  font-size: 12px;
+}
+
+.buttons{
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 10px 120px ;
+  border-radius: 20px;
+  cursor: pointer;
+  margin-bottom: 40px;
+}
